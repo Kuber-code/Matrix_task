@@ -1,0 +1,10 @@
+Image scaling
+Write a C++, console program that:
+•	Scales matrices containing uint32_t values (using notation: columns, rows)
+•	Accepts input parameters either as program execution arguments or interactively (line by line)
+•	Accepts source matrix dimensions (columns, rows) and fills the matrix with values (can be random, or with pattern)
+•	Accepts destination matrix scale factor (n) - integer value of 1 or greater
+•	Creates scaled destination matrix
+•	Fills the values of destination matrix with upscaled source matrix
+•	Values should be filled using a random numbers from 1-100
+•	Visualizes both, source and destination matrix at the end of program
